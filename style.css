@@ -228,7 +228,7 @@ nav ul li:hover::after {
 .info-about h2 {
     font-weight: 300;
     font-size: 24px;
-    margin-bottom: -16px;
+    margin-bottom: 5px;
 }
 
 .info-about h3 {
@@ -239,7 +239,7 @@ nav ul li:hover::after {
 
 .info-about p {
     font-size: 20px;
-    margin-bottom: -5px;
+    margin-bottom: 16px;
 }
 
 
