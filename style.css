@@ -147,7 +147,7 @@ nav ul li:hover::after {
 }
 .Aniket {
     font-size: 65px;
-    margin-bottom: -30px;
+    margin-bottom: -42px;
     z-index: 3;
 }
 
@@ -165,7 +165,7 @@ nav ul li:hover::after {
 
 .DEV {
     font-size: 120px;
-    margin: -130px 0 0;
+    margin: -80px 0 0;
     padding: 0;
     position: relative;
     z-index: 2;
