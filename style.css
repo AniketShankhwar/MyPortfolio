@@ -52,8 +52,8 @@ nav {
 .logo img {
     margin-left: 80px;
     margin-top: 8px;
-    width: 40px;
-    height: auto;
+    width: auto;
+    height: 40px;
 }
 .NavStyle{
     text-decoration: none;
